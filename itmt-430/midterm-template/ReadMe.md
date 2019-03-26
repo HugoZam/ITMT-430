@@ -10,6 +10,7 @@
 
 ![](https://github.com/HugoZam/ITMT-430/blob/master/itmt-430/midterm-template/trello.PNG)
 
+![](https://github.com/HugoZam/ITMT-430/blob/master/itmt-430/midterm-template/flow.PNG)
 
 Each team member should comment on their own accomplishments (Taken word for word from the sprint reports) and describe what they did and explain any decisions referencing any lectures or material from the text book or web.
 1. Correlate the personal sprint report with completed goals stated in the sprint report
