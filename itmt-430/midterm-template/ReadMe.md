@@ -8,7 +8,7 @@
 
 * I was in charge of creating initial drafts of the UI/UX flowcharts and rough designs on what we wanted the page to look like, I reference old material from 361 and 362 to get a rough idea the best way to start.
 
-![](../trello.PNG)
+![](https://github.com/HugoZam/ITMT-430/tree/master/itmt-430/midterm-template/trello.PNG)
 
 
 Each team member should comment on their own accomplishments (Taken word for word from the sprint reports) and describe what they did and explain any decisions referencing any lectures or material from the text book or web.
