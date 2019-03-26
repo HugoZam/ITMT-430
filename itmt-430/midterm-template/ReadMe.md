@@ -4,9 +4,9 @@
 
 ### Sprint 1
 
-1. Hugo: "Established team communications and dynamics on how we work best. Personal, established scope of the project, as well as initial drafts/skeleton of website UI." 
+1. Hugo: "Established team communications and dynamics on how we work best. Personal, established scope of the project, as well as initial drafts/skeleton of website UI."
 
-..* I was in charge of creating initial drafts of the UI/UX flowcharts and rough designs on what we wanted the page to look like, I reference old material from 361 and 362 to get a rough idea the best way to start.
+* I was in charge of creating initial drafts of the UI/UX flowcharts and rough designs on what we wanted the page to look like, I reference old material from 361 and 362 to get a rough idea the best way to start.
 
 
 
